@@ -1,6 +1,6 @@
 package com.example.test3
 
-fun main(){
+ fun main(){
 //    var = 변수
 //
 //    val = 상수
