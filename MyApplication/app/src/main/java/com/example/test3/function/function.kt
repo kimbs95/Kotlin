@@ -51,4 +51,21 @@ fun normalVarargs(vararg counts:Int){
 fun main(){
    normalVarargs(1,2,3,4) // 4개의 인자 구성
    normalVarargs(1,2,3) // 3개의 인자 구성
+   var aaa =  getMessage(0)
+    println("$aaa")
 }
+
+//    람다식 함수
+    val getMessage = lamba@ {num : Int ->
+        if(num !in 1..10){
+             return@lamba "Error"
+        }
+        "Sucess"
+    }
+//    익명함수
+    val getMessage1 = fun(num:Int ):String{
+        if(num !in 1..100){
+            return "Error"
+        }
+        return "Success"
+    }

@@ -1,4 +1,4 @@
-package com.example.test3
+package com.example.test3.for_while
 
 
 //조건문 when
