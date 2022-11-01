@@ -40,6 +40,12 @@ fun arr(){
     println("data6 ${data6[1]}")
     println("data6 ${data6.get(2)}")
 
+//    indices = 인덱스를 의미
+//    data.indices
+
+//    withIndex() = 인덱스 번호 와 실제 데이터를 함께 가져옴
+//    ex)for((index , value ) in data.withIndex())
+
 
 //    Set => setOf() "불변"
 //    Set => MutableSet => mutableSetOf() "가변"

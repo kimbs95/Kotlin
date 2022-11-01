@@ -33,8 +33,13 @@ fun when2(){
 //  for (i in 2..10 step 2) { ... } → 2부터 10까지 2씩 증가
 //  for (i in 10 downTo 1) { ... } → 10부터 1까지 1씩 감소
 
+//    indices = 인덱스를 의미
+//    data.indices
+//    ex) for( i in data.indices)
 
-//
+//    withIndex() = 인덱스 번호 와 실제 데이터를 함께 가져옴
+//    ex)for((index , value ) in data.withIndex())
+
 fun main(){
 //    인자가 있는 when
 //    print("Enter the score: ")
@@ -59,6 +64,9 @@ fun main(){
            score < 70.0 -> grade='F'
     }
     println("Score: $score, Grade : $grade")
+
+
+
 
 println("=================================")
 //   다양한 자료형의 인자 받기
