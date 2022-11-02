@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 open class Person{
     constructor(firstName:String){

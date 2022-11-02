@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 //오버로딩
 //다양한 매개변수

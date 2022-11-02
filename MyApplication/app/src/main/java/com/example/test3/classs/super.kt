@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 open class Bird100 (var name:String , var wing:Int , var beak :String, var color:String){
     fun fly() = println("Fly wing :$wing")

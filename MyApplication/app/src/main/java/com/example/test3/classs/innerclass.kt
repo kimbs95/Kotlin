@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 open class Base{
     open val x:Int =1

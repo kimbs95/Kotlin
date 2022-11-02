@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 internal class InternalClass{
 //    internal 공동의  public 종류

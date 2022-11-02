@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 class Person1(firstName:String ,out:Unit = println("[Primary Constructor] Parameter")){
     val fName =println("[Property] Person fName: $firstName")

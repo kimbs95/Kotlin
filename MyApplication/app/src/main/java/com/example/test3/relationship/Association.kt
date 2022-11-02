@@ -1,13 +1,13 @@
-package com.example.test3.classmaking
+package com.example.test3.relationship
 
 //연관 관계 (association)
 class Patient(val name:String){
-    fun doctorList(d:Doctor){//인자로 참조
+    fun doctorList(d: Doctor){//인자로 참조
         println("Partient $name , Doctor : ${d.name}")
     }
 }
 class Doctor(val name :String){
-    fun patientList(p:Patient){// 인자로 참조
+    fun patientList(p: Patient){// 인자로 참조
         println("Doctor :$name ,Patient : ${p.name}")
     }
 }

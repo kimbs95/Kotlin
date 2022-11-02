@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 open class Base1{ // 최상위 선언 클래스에는 protected 사용할수 없음
     //상속 받은 자만 사용가능

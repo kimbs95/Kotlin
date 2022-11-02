@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 class Bird1{//constructor 주 생성자(Primary Constructor)
 // class 명 뒤에 constructor 가 원래는 있음음

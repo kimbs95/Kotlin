@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.relationship
 
 //관계(reslationship)
 //연관(association)  // 환자 의사

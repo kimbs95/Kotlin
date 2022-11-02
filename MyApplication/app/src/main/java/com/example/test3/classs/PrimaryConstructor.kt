@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 class PrimaryConstructor { // 주 생성자
 }

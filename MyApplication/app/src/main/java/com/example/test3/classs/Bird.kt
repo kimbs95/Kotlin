@@ -1,4 +1,4 @@
-package com.example.test3.classmaking
+package com.example.test3.classs
 
 class Bird { // 클래스 정의
     //  프로퍼티 (속성)
