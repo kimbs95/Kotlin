@@ -69,3 +69,9 @@ fun main(){
         }
         return "Success"
     }
+
+//함수의 자료형 제한하기
+fun<T:Number> addLimit(a:T,b:T ,op:(T,T) -> T):T{
+    return op(a,b)
+}
+//val result = addLimit("abc","def",{a,b -> a + b}) // 제한된 자료형으로 인해 오류
