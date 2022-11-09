@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">카카오 비민번호 확인하기</string>
+    <string name="pw">비밀번호 를 입력하세요</string>
+    <string name="pwcheck">비밀번호를 잊어버리셨나요?</string>
+</resources>
