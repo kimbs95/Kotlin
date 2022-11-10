@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -18,10 +19,13 @@
             <option value="$PROJECT_DIR$/myapplication14" />
             <option value="$PROJECT_DIR$/myapplication15" />
             <option value="$PROJECT_DIR$/myapplication16" />
+            <option value="$PROJECT_DIR$/myapplication17" />
+            <option value="$PROJECT_DIR$/myapplication18" />
+            <option value="$PROJECT_DIR$/myapplication19" />
+            <option value="$PROJECT_DIR$/myapplication20" />
             <option value="$PROJECT_DIR$/myapplication9" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
